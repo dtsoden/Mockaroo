@@ -1,0 +1,95 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "version": "1.0.0",
+    "title": "Mockaroo Collection",
+    "description": "Mockaroo Collection"
+  },
+  "host": "api.mockaroo.com",
+  "basePath": "/",
+  "schemes": [
+    "https"
+  ],
+  "consumes": [],
+  "produces": [
+    "application/json"
+  ],
+  "paths": {
+    "/api/generate.json": {
+      "get": {
+        "summary": "Get-MocData",
+        "description": "Get-MocData",
+        "operationId": "Get-MocData",
+        "parameters": [
+          {
+            "name": "count",
+            "in": "query",
+            "type": "integer",
+            "required": true,
+            "x-ms-visibility": "important",
+            "format": "int32"
+          },
+          {
+            "name": "schema",
+            "in": "query",
+            "type": "string",
+            "required": true,
+            "x-ms-visibility": "important",
+            "format": ""
+          }
+        ],
+        "responses": {
+          "default": {
+            "description": "default",
+            "schema": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "id": {
+                    "type": "integer",
+                    "format": "int32",
+                    "description": "id"
+                  },
+                  "first_name": {
+                    "type": "string",
+                    "description": "first_name"
+                  },
+                  "last_name": {
+                    "type": "string",
+                    "description": "last_name"
+                  },
+                  "email": {
+                    "type": "string",
+                    "description": "email"
+                  },
+                  "gender": {
+                    "type": "string",
+                    "description": "gender"
+                  },
+                  "ip_address": {
+                    "type": "string",
+                    "description": "ip_address"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "x-ms-visibility": "important"
+      }
+    }
+  },
+  "definitions": {},
+  "parameters": {},
+  "responses": {},
+  "securityDefinitions": {
+    "api_key": {
+      "type": "apiKey",
+      "in": "header",
+      "name": "X-API-Key"
+    }
+  },
+  "security": [],
+  "tags": []
+}
