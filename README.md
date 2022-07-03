@@ -9,3 +9,7 @@ Folder details and explanation
 - **Un-Managed** the unmanaged version of the Solution - not recomended due to the complexity delaetng
 - Mockaroo.ico --> an Icon for the custom Connector stant alone
 - README.md --> this file
+<div align="center">
+![PowerApp Screen Shot](screen.png)
+![PowerApp Screen Shot](screen.png)
+</div>
