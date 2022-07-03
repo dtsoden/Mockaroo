@@ -16,6 +16,6 @@ Folder details and explanation
 
 ---
 
-![Document Template](https://github.com/dtsoden/Mockroo/blob/main/doc.png)
+![Document Template](/doc.png)
   
 </div>
