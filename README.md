@@ -14,6 +14,8 @@ Folder details and explanation
   
 ![PowerApp Screen Shot](https://github.com/dtsoden/Mockroo/blob/main/screen.png)
 
+---
+
 ![Document Template](https://github.com/dtsoden/Mockroo/blob/main/doc.png)
   
 </div>
