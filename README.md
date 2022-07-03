@@ -10,6 +10,6 @@ Folder details and explanation
 - Mockaroo.ico --> an Icon for the custom Connector stant alone
 - README.md --> this file
 <div align="center">
-![PowerApp Screen Shot](screen.png)
-![PowerApp Screen Shot](screen.png)
+![PowerApp Screen Shot](/blob/main/screen.png
+![PowerApp Screen Shot](https://github.com/dtsoden/Mockroo/blob/main/doc.png)
 </div>
