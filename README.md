@@ -12,7 +12,7 @@ Folder details and explanation
 
 <div align="center">
   
-![PowerApp Screen Shot](https://github.com/dtsoden/Mockroo/blob/main/screen.png)
+![PowerApp Screen Shot](/screen.png)
 
 ---
 
