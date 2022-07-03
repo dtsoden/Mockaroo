@@ -12,8 +12,8 @@ Folder details and explanation
 
 <div align="center">
   
-![PowerApp Screen Shot]([/blob/main/](https://github.com/dtsoden/Mockroo/blob/main/screen.png)
+![PowerApp Screen Shot](https://github.com/dtsoden/Mockroo/blob/main/screen.png)
 
-![PowerApp Screen Shot](https://github.com/dtsoden/Mockroo/blob/main/doc.png)
+![Document Template](https://github.com/dtsoden/Mockroo/blob/main/doc.png)
   
 </div>
