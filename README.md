@@ -11,7 +11,7 @@ Folder details and explanation
 - README.md --> this file
 
 <div align="center">
-![PowerApp Screen Shot](/blob/main/screen.png
+![PowerApp Screen Shot](/blob/main/screen.png)
 
 ![PowerApp Screen Shot](https://github.com/dtsoden/Mockroo/blob/main/doc.png)
 </div>
